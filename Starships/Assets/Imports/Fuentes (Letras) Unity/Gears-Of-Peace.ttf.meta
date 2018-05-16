@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5e8222784217be548920b3ca7000fd5e
+timeCreated: 1508937617
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gears of Peace
+  fontNames:
+  - Gears of Peace
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
